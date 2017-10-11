@@ -37,3 +37,13 @@ input{
 .add_option{
     margin-top: 10px;
 }
+
+.result_section{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    font-family: helvetica;
+    font-weight: lighter;
+}
